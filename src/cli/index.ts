@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { Command } from 'commander';
 import { runScan, ScanOptions } from './commands.js';
 import chalk from 'chalk';
