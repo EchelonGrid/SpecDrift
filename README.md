@@ -33,7 +33,7 @@ SpecDrift is an offensive and defensive security analysis tool designed to uncov
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/ZeroShadow-dev/SpecDrift
+git clone https://github.com/EchelonGrid/SpecDrift
 cd specdrift
 npm install
 npm run build
